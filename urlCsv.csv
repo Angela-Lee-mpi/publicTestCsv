@@ -1,2 +1,3 @@
-canvasPictureUrl
-https://raw.githubusercontent.com/Angela-Lee-mpi/publicTestCsv/refs/heads/main/picture.PNG
+canvasPictureUrl,cameraPictureUrl
+https://raw.githubusercontent.com/Angela-Lee-mpi/publicTestCsv/refs/heads/main/picture.PNG,http://localhost:8000/video_feed
+
